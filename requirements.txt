@@ -6,3 +6,4 @@ scipy
 scikit-learn
 torch
 openpyxl
+matplotlib
